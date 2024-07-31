@@ -1,0 +1,35 @@
+body {
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #ff69b4; /* Color rosado */
+}
+
+.form-control {
+    border: 1px solid #ff69b4;
+}
+
+.btn-primary {
+    background-color: #ff69b4;
+    border-color: #ff69b4;
+}
+
+.btn-primary:hover {
+    background-color: #ff4081;
+    border-color: #ff4081;
+}
+
+.btn-link {
+    color: #ff69b4;
+}
+
+.btn-link:hover {
+    color: #ff4081;
+}
+
+
